@@ -5,7 +5,7 @@
 "template_id": "pEr4XktA4tWbjNi37B6C9PhNQCw1-6zWPU9dV9EyBhQ",
 "user": ["oK_Fc5qUXWrd0NvkFU2MdOsVS8W0"], # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
 # 信息配置
-"weather_key": " eb6887e12c5045d2b0184b4ebbb666ff ",
+"weather_key": "eb6887e12c5045d2b0184b4ebbb666ff",
 "region": "徐州市睢宁县", # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "birthday1": {"name": "张梦娜小朋友", "birthday": "2000-04-29"}, # 生日1，姓名和生日，生日若为农历在最前面加上r即可
 "birthday2": {"name": "张诚先生", "birthday": "2001-08-28"}, # 生日2，同上
