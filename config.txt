@@ -1,7 +1,7 @@
 {
 # 微信公众号配置
 "app_id": "wx5ca5edd620b39001",
-"app_secret": "cc0acabdc52d1b5c552022a2bd07d098",
+"app_secret": "171638d2dea350884c5fa999d2d36462",
 "template_id": "pEr4XktA4tWbjNi37B6C9PhNQCw1-6zWPU9dV9EyBhQ",
 "user": ["oK_Fc5qUXWrd0NvkFU2MdOsVS8W0"], # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
 # 信息配置
